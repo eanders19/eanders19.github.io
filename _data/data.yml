@@ -67,7 +67,6 @@ education:
           Trained on the forensic process, Windows forensics, mobile device forensics and Network forensics.
           Trained in techniques/best practices for network security, maintenance, and administration. 
           Trained on how to investigate cybercrimes in the workplace and outside it.
-.
            # - Bullet point
            # - Bullet point
 experiences:
@@ -118,7 +117,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Offensive Security Certified Professional (OSCP)
-        link: "#hook"
+        link: "www.credential.net/4deca3d1-dd2d-453d-9227-fc4c7db2fd3c"
         tagline: "I obtained the OSCP."
 
       - title: DevStudio
