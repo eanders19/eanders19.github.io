@@ -16,9 +16,9 @@ sidebar:
     #phone: 000 000 000
     timezone: Eastern Standard Timezone
     #citizenship:
-    #website: #do not add http://
+    website: app.hackthebox.com/profile/387537 #do not add http://
     #linkedin: alandoe
-    box: app.hackthebox.com/profile/387537
+    #box: 
     github: NathanSecurity
     #telegram: # add your nickname without '@' sign
     #gitlab:
