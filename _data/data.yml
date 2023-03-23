@@ -18,7 +18,7 @@ sidebar:
     #citizenship:
     #website: #do not add http://
     #linkedin: alandoe
-    hackthebox: app.hackthebox.com/profile/387537
+    htb: app.hackthebox.com/profile/387537
     github: NathanSecurity
     #telegram: # add your nickname without '@' sign
     #gitlab:
@@ -34,12 +34,6 @@ sidebar:
       info:
         - idiom: English
           level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
