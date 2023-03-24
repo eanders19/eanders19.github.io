@@ -117,7 +117,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Offensive Security Certified Professional (OSCP)
-        link: "#OSCP.yml"
+        link: "OSCP.pdf"
         #tagline: "https://www.credential.net/4deca3d1-dd2d-453d-9227-fc4c7db2fd3c"
 
       - title: DevStudio
