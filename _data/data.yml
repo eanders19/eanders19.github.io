@@ -112,9 +112,9 @@ experiences:
 projects:
     title: Certifications
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      #You can list your side projects in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Offensive Security Certified Professional (OSCP)
         link: "oscp.pdf"
