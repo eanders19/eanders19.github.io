@@ -118,23 +118,23 @@ projects:
     assignments:
       - title: Offensive Security Certified Professional (OSCP)
         link: "oscp.pdf"
-        #tagline: "https://www.credential.net/4deca3d1-dd2d-453d-9227-fc4c7db2fd3c"
+        tagline: "I obtained the OSCP this past year and have been activly working at improving my skills since then. Both through full scale Penetration Tests and HackTheBox."
 
-      - title: DevStudio
-        link: "#"
+      - title: TestOut Network Pro Certification
+        link: "NetPro.pdf"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
+      - title: TestOut Security Pro Certification
+        link: "SecPro.pdf"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      #- title: Atom
+        #link: "#"
+        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Memebr of InfaGuard
+        #link: "#"
+        tagline: "I am an active memebr of infaGuard and have been since 2019"
 
 oss:
     title: OSS Contributions
