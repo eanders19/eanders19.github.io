@@ -135,20 +135,44 @@ projects:
         #link: "#"
         tagline: "I am an active member of infaGuard and have been since 2019"
 
+
 skills:
     title: Skills &amp; Proficiency
-    
     info:
-        - title: Operating Systems
-          details: |
-                - Windows Desktop
-                - Windows Server 2016, 2019
-                - Ubuntu Sever & Desktop
-                - Debien
-                - Kali Linux
-                - Oracle VirtualBox
-                - VMware ESXi
-    
+      - Catagory: Operating Systems
+        details: |
+            - Windows Desktop
+            - Windows Server 2016, 2019
+            - Ubuntu Sever & Desktop
+            - Debien
+            - Kali Linux
+            - Oracle VirtualBox
+            - VMware ESXi
+      - role: Senior Software Engineer
+        time: 2014 - 2015
+        company: Google, London
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: UI Developer
+        time: 2012 - 2014
+        company: Amazon, London
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+skills:
+    title: Languages
+        
     toolset:
       - name: Linux Bash & Windows Batch
         level: 80%
@@ -170,3 +194,7 @@ skills:
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    info:
+        - title: Operating Systems
+          details: |
+                
