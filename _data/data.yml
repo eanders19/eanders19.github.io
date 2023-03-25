@@ -76,39 +76,29 @@ experiences:
         time: 2020 - Present
         company: Anderson Technologies, Ohio
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            - Ran full scale penetration tests for clients with multiple domains 
+            - Deployed and maintained EDR across multiple domains and physical client sites
+            - Analyzed malware executables within virtual enviroments
+            - Organized and ran routine security awareness training
+
       - role: Network Security Engineer
         time: 2019 - 2020
         company: Budget Dumpster, Ohio
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Deployed and maintained IDS systems (Snort)
+            - Deployed and maintained EDR on all PCs and servers (SentinelOne)
+            - Deployed and maintained Network Monitoring system (PRTG)
+            - Implemented layered approach to security.
+            - Built Powershell, Bash, and Batch scripts to automate security tasks
       - role: Network Technician
         time: 2013 - 2019
         company: Anderson Technologies, Ohio
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Oversaw the overall information and data security on PCs, servers, and networks.
+            - Maintained PCs and Servers, including maintaining patching and AV definitions
+            - Deplayed and maintained antiviris solutions (Viper &amp; Bitdefender)
+            - Setup AD networks on local servers
+            - Deployed Office365 accross Enterprise 
 projects:
     title: Certifications
     intro: >
@@ -134,14 +124,10 @@ projects:
 
 oss:
     title: Skills &amp; Proficiency
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: "Security Tools"
+      - title: "Penetration Testing"
         link: "sectools.html"
-        tagline: "I have experience with a wide range of hacking/Security tools."
+        tagline: "I have been activly Pentesting for the past 18 monthes. Just a few of the tools I have used are listend in the link above."
 
       - title: "Operating Systems"
         link: "os.html"
@@ -172,19 +158,11 @@ skills:
         level: 80%
 
       - name: Python
-        level: 55%
+        level: 65%
 
       - name: C++
         level: 55%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
