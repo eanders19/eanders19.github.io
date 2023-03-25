@@ -154,21 +154,18 @@ oss:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 publications:
     title: Skills &amp; Proficiency
-    intro: Operating Systems
-    intro: |
+    intro: Operating Systems 
+    papers:
+      - title: Operating Systems
+        conference: |
             - Windows Desktop
             - Windows Server 2016, 2019
             - Ubuntu Sever & Desktop
             - Debien
             - Kali Linux
             - Oracle VirtualBox
-            - VMware ESXi
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
+            - VMware ESXi    
+        
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
