@@ -77,10 +77,10 @@ experiences:
         company: Anderson Technologies, Ohio
         details: |
             - Responsible for running full scale penetration tests for clients with multiple domains 
-            - I oversee, deploy and maintained EDR across multiple domains and physical client sites
-            - I analyze malware executables within virtual environments
-            - I organize and ran routine security awareness training
-            - I have setup municipal ELANs with multiple domains, and dozens of subnets
+            - Oversee, deploy and maintained EDR across multiple domains and physical client sites
+            - Analyze malware executables within virtual environments
+            - Organize and ran routine security awareness training
+            - Setup municipal ELANs with multiple domains, and dozens of subnets
 
       - role: Network Security Engineer
         time: 2019 - 2020
@@ -89,13 +89,13 @@ experiences:
             - Deployed and maintained IDS systems (Snort)
             - Deployed and maintained EDR on all PCs and servers (SentinelOne)
             - Deployed and maintained Network Monitoring system (PRTG)
-            - Implemented layered approach to security.
+            - Implemented layered approach to security
             - Built PowerShell, Bash, and Batch scripts to automate security tasks
       - role: Network Technician
         time: 2013 - 2019
         company: Anderson Technologies, Ohio
         details: |
-            - Oversaw the overall information and data security on PCs, servers, and networks.
+            - Oversaw the overall information and data security on PCs, servers, and networks
             - Maintained PCs and Servers, including maintaining patching and AV definitions
             - Deployed and maintained antivirus solutions (Viper &amp; Bitdefender)
             - Setup AD networks on local servers
