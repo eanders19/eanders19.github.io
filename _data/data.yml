@@ -145,16 +145,17 @@ oss:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
+      - title: Security Tools
+        link: "sectools.html"
+        tagline: "I have experience with a wide range of hacking/Security tools."
+
       - title: Operating Systems
-        tagline: ""
+        link: "os.html"
+        tagline: "I have great expierence with many Operating Systems. I have used different version of linux extensivly."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Cloud Platforms
+        link: "cp.html"
+        tagline: "I have experience in setting up and managing servers and networks in cloud in several cloud platforms."
 publications:
     title: Professional Groups
     intro: >
@@ -162,12 +163,10 @@ publications:
         and determined to stay in the loop within the InfoSec world.
     papers:
       - title: InfraGard
-        link: "#"
         authors: Member since 2019
         conference: "InfraGard is a partnershhip between the FBI and memebers of the private sector for the protection of U.S. Critical systems."
 
       - title: HackTheBox
-        link: "#"
         authors: Member since 2020
         conference: "Hack The Box is a leading cybersecurity platform designed to sharpen their offensive and defensive security expertise"
 skills:
