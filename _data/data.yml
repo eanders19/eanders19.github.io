@@ -147,15 +147,15 @@ oss:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
       - title: "Security Tools"
-        link: "sectools.html"
+        link: "#sectools.html"
         tagline: "I have experience with a wide range of hacking/Security tools."
 
       - title: "Operating Systems"
-        link: "os.html"
+        link: "#os.html"
         tagline: "I have great expierence with many Operating Systems. I have used different version of linux extensivly."
 
       - title: "Cloud Platforms"
-        link: "cp.html"
+        link: "#cp.html"
         tagline: "I have experience in setting up and managing servers and networks in cloud in several cloud platforms."
 
 publications:
