@@ -156,15 +156,14 @@ publications:
     title: Skills &amp; Proficiency
     intro: Operating Systems 
     papers:
-      - title: Operating Systems
-        conference: |
+      - title: |
             - Windows Desktop
             - Windows Server 2016, 2019
             - Ubuntu Sever & Desktop
             - Debien
             - Kali Linux
             - Oracle VirtualBox
-            - VMware ESXi    
+            - VMware ESXi
         
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
