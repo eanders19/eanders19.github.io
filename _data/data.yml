@@ -136,21 +136,14 @@ projects:
         tagline: "I am an active member of infaGuard and have been since 2019"
 
 oss:
-    title: Skills &amp; Proficiencies
+    title: Skills &amp; Proficiency
     intro: >
       You can list your open source software contributions in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
       - title: Operating Systems
-        tagline: |
-            - Windows Desktop
-            - Windows Server 2016, 2019
-            - Ubuntu Sever & Desktop
-            - Debien
-            - Kali Linux
-            - Oracle VirtualBox
-            - VMware ESXi
+        tagline: ""
 
       - title: Atom
         link: "#"
@@ -159,7 +152,32 @@ oss:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+publications:
+    title: Operating Systems
+    intro: |
+            - Windows Desktop
+            - Windows Server 2016, 2019
+            - Ubuntu Sever & Desktop
+            - Debien
+            - Kali Linux
+            - Oracle VirtualBox
+            - VMware ESXi
+    title: 
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 skills:
     title: Languages
         
