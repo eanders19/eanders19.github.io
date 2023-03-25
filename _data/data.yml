@@ -9,10 +9,10 @@ sidebar:
     # Profile information
     name:  Nathaniel Anderson
     tagline: Penetration Tester
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: nathansecurity@gmail.com
+    #email: 00000@gmail.com
     #phone: 000 000 000
     timezone: Eastern Standard Timezone
     #citizenship:
@@ -50,11 +50,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Analytical Security and Network Professional with 9+ years of hands on experience
-      across various fields. Including Penetration Testing, vulnerability analysis, security
-      software implementations, and network engineering. I am skilled in prefoming reconnaissance,
-      exploit vulnerabilities, and documentatioing any and all findings. I am self driven and able 
-      to work alone or colaberate.
+      Analytical Security and Network Professional with 9+ years of hands \-on experience
+      across various fields including Penetration Testing, vulnerability analysis, security
+      software implementations, and network engineering. I am skilled in performing  reconnaissance,
+      exploit vulnerabilities and documenting any and all findings. I am self-driven and able 
+      to work alone or collaborate.
 
 education:
     title: Education
@@ -76,10 +76,11 @@ experiences:
         time: 2020 - Present
         company: Anderson Technologies, Ohio
         details: |
-            - Ran full scale penetration tests for clients with multiple domains 
-            - Deployed and maintained EDR across multiple domains and physical client sites
-            - Analyzed malware executables within virtual enviroments
-            - Organized and ran routine security awareness training
+            - Responsible for running full scale penetration tests for clients with multiple domains 
+            - I oversee, deploy and maintained EDR across multiple domains and physical client sites
+            - I analyze malware executables within virtual environments
+            - I organize and ran routine security awareness training
+            - I have setup municipal ELANs with multiple domains, and dozens of subnets
 
       - role: Network Security Engineer
         time: 2019 - 2020
@@ -89,33 +90,30 @@ experiences:
             - Deployed and maintained EDR on all PCs and servers (SentinelOne)
             - Deployed and maintained Network Monitoring system (PRTG)
             - Implemented layered approach to security.
-            - Built Powershell, Bash, and Batch scripts to automate security tasks
+            - Built PowerShell, Bash, and Batch scripts to automate security tasks
       - role: Network Technician
         time: 2013 - 2019
         company: Anderson Technologies, Ohio
         details: |
             - Oversaw the overall information and data security on PCs, servers, and networks.
             - Maintained PCs and Servers, including maintaining patching and AV definitions
-            - Deplayed and maintained antiviris solutions (Viper &amp; Bitdefender)
+            - Deployed and maintained antivirus solutions (Viper &amp; Bitdefender)
             - Setup AD networks on local servers
-            - Deployed Office365 accross Enterprise 
+            - Deployed Office365 across Enterprise 
 projects:
     title: Certifications
-    intro: >
-      I have been working in the IT field for 9 years
-      and have several certifications regarding Information Technology.
     assignments:
       - title: Offensive Security Certified Professional (OSCP)
         link: "oscp.pdf"
-        tagline: "I obtained the OSCP this past year and have been activly working at improving my skills since then. Both through full scale Penetration Tests and HackTheBox."
+        #tagline: "I obtained the OSCP this past year and have been activly working at improving my skills since then. Both through full scale Penetration Tests and HackTheBox."
 
       - title: TestOut Network Pro Certification
         link: "NetPro.pdf"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        #tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: TestOut Security Pro Certification
         link: "SecPro.pdf"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       #- title: Atom
         #link: "#"
@@ -127,11 +125,11 @@ oss:
     contributions:
       - title: "Penetration Testing"
         link: "sectools.html"
-        tagline: "I have been actively Pentesting for the past 18 monthes. Just a few of the tools I have used are listend in the link above."
+        tagline: "I have been actively Penetration Testing for the past 18 months. Just a few of the tools I have used are listed in the link above."
 
       - title: "Operating Systems"
         link: "os.html"
-        tagline: "I have great expierence with many Operating Systems. I have used different version of linux extensivly."
+        tagline: "I have great experience with many Operating Systems. I have used different distributions of linux extensively."
 
       - title: "Cloud Platforms"
         link: "cp.html"
@@ -145,11 +143,11 @@ publications:
     papers:
       - title: InfraGard
         authors: Member since 2019
-        conference: "InfraGard is a partnershhip between the FBI and memebers of the private sector for the protection of U.S. Critical systems."
+        #conference: "InfraGard is a partnershhip between the FBI and memebers of the private sector for the protection of U.S. Critical systems."
 
       - title: HackTheBox
         authors: Member since 2020
-        conference: "Hack The Box is a leading cybersecurity platform designed to sharpen their offensive and defensive security expertise"
+        #conference: "Hack The Box is a leading cybersecurity platform designed to sharpen their offensive and defensive security expertise"
 skills:
     title: Languages
         
