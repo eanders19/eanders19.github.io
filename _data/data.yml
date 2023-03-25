@@ -50,12 +50,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Analytical Security and Network Professional with 9+ years of hands on experience
+      across various fields. Including Penetration Testing, vulnerability analysis, security
+      software implementations, and network engineering. I am skilled in prefoming reconnaissance,
+      exploit vulnerabilities, and documentatioing any and all findings. I am self driven and able 
+      to work alone or colaberate.
+
 education:
     title: Education
     info:
@@ -102,7 +102,7 @@ experiences:
 projects:
     title: Certifications
     intro: >
-      I have been working in the IT field for 12 years
+      I have been working in the IT field for 9 years
       and have several certifications regarding Information Technology.
     assignments:
       - title: Offensive Security Certified Professional (OSCP)
@@ -127,7 +127,7 @@ oss:
     contributions:
       - title: "Penetration Testing"
         link: "sectools.html"
-        tagline: "I have been activly Pentesting for the past 18 monthes. Just a few of the tools I have used are listend in the link above."
+        tagline: "I have been actively Pentesting for the past 18 monthes. Just a few of the tools I have used are listend in the link above."
 
       - title: "Operating Systems"
         link: "os.html"
