@@ -18,16 +18,16 @@
   {% for contribution in oss.contributions %}
   <div class="item">
 
-    <span class="project-title">
+    <span class="contribution-title">
       {% if contribution.link %}
-      <a href="{{ project.link }}" target="_blank">{{ contribution.title }}</a>
+      <a href="{{ contribution.link }}" target="_blank">{{ contribution.title }}</a>
       {% else %}
       {{ contribution.title }}
       {% endif %}
     </span>
 
     {% if contribution.tagline %}
-    - <span class="project-tagline">{{ contribution.tagline }}</span>
+    - <span class="contribution-tagline">{{ contribution.tagline }}</span>
     {% endif %}
 
   
