@@ -1,13 +1,6 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
-#|
-#            - Windows Desktop
-#            - Windows Server 2016, 2019
-#            - Ubuntu Sever & Desktop
-#            - Debien
-#            - Kali Linux
-#            - Oracle VirtualBox
-#            - VMware ESXi
+#
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
