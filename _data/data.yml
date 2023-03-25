@@ -147,7 +147,7 @@ oss:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
       - title: "Security Tools"
-        link: "#sectools.html"
+        link: "sectools.html"
         tagline: "I have experience with a wide range of hacking/Security tools."
 
       - title: "Operating Systems"
