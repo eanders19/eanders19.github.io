@@ -12,8 +12,8 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: NathanAnderson.mail@gmail.com
-    phone: 440-258-8487
+    #email: 
+    #phone: 
     timezone: Eastern Standard Timezone
     #citizenship:
     website: app.hackthebox.com/profile/387537 #do not add http://
