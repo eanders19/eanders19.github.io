@@ -12,21 +12,21 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    #email: 
-    #phone: 
+    email: NathanAnderson.mail@gmail.com
+    phone: 440-258-8487
     timezone: Eastern Standard Timezone
     #citizenship:
     website: app.hackthebox.com/profile/387537 #do not add http://
-    #linkedin: alandoe
+    #linkedin: 
     #box: 
     github: NathanSecurity
     #telegram: # add your nickname without '@' sign
     gitlab: https://nathansecurity.github.io
     #bitbucket:
-    #twitter: '@webjeda'
-    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #twitter: 
+    #stack-overflow: # Number/Username
     #codewars:
-    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #goodreads: # Number-Username
     pdf: resume.pdf
 
     languages:
@@ -159,7 +159,7 @@ skills:
         level: 65%
 
       - name: C++
-        level: 55%
+        level: 50%
 
 
             
