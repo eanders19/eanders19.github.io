@@ -12,8 +12,8 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    #email: 00000@gmail.com
-    #phone: 000 000 000
+    email: NathanAnderson.mail@gmail.com
+    phone: 440-258-8487
     timezone: Eastern Standard Timezone
     #citizenship:
     website: app.hackthebox.com/profile/387537 #do not add http://
@@ -21,7 +21,7 @@ sidebar:
     #box: 
     github: NathanSecurity
     #telegram: # add your nickname without '@' sign
-    #gitlab:
+    gitlab: https://nathansecurity.github.io
     #bitbucket:
     #twitter: '@webjeda'
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -162,9 +162,4 @@ skills:
         level: 55%
 
 
-#footer: >
-#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
-#    info:
-#        - title: Operating Systems
-#          details: |
-#                
+            
