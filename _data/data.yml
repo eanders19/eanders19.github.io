@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name:  Nathaniel Anderson
-    tagline: Penetration Tester
+    name:  Emmy Anderson
+    tagline: Process Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,10 +16,10 @@ sidebar:
     #phone:
     timezone: Eastern Standard Timezone
     #citizenship:
-    website: app.hackthebox.com/profile/387537 #do not add http://
-    #linkedin: 
+    #website: app.hackthebox.com/profile/387537 #do not add http://
+    linkedin: emmy-anderson-aa93a8b0
     #box: 
-    github: NathanSecurity
+    #github: NathanSecurity
     #telegram: # add your nickname without '@' sign
     #gitlab:
     #bitbucket:
@@ -34,130 +34,222 @@ sidebar:
       info:
         - idiom: English
           level: Native
+          
+        - idiom: Spanish
+          level: Native
 
     interests:
       title: Interests
       info:
-        - item: Hacking
+        - item: Traveling
           link:
 
-        - item: IoT Development
+        - item: Cooking
           link:
 
-        - item: Furniture Construction 
+        - item: Do-It-Yourself Projects
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Analytical Security and Network Professional with 9+ years of hands\-on experience
-      across various fields including Penetration Testing, vulnerability analysis, security
-      software implementations, and network engineering. I am skilled in performing  reconnaissance,
-      exploit vulnerabilities and Penetration Test reporting. I am self-driven and able 
-      to work alone or collaborate with others.
+     Highly determined and passionate about developing innovative methods to drive efficiency. 
+     Well-versed in building positive relationships with customers, vendors, other stakeholders. 
+     Strong requirements gathering, scope development and coordination abilities. 
+     Skilled at overseeing complex, high-value projects with excellent planning competencies. 
+     Comfortable working in fast-paced and deadline-driven environment.
+
 education:
     title: Education
     info:
-      - degree: Digital Forensics (Incomplete)
+      - degree: Adiministrative Office Information Systems (Incomplete)
         university: Lorain County Community College
-        time: 2017 - 2019
-        details: |
-          Trained on how to investigate data breaches, find out how they happened and how to prevent them from happening.
-          Trained on the forensic process, Windows forensics, mobile device forensics and Network forensics.
-          Trained in techniques/best practices for network security, maintenance, and administration. 
-          Trained on how to investigate cybercrimes in the workplace and outside it.
+        #time: 2017 - 2019
+        #details: |
+         # Trained on how to investigate data breaches, find out how they happened and how to prevent them from happening.
+         # Trained on the forensic process, Windows forensics, mobile device forensics and Network forensics.
+         # Trained in techniques/best practices for network security, maintenance, and administration. 
+         # Trained on how to investigate cybercrimes in the workplace and outside it.
            # - Bullet point
            # - Bullet point
 experiences:
     title: Experiences
     info:
-      - role: Senior Network Engineer 
-        time: 2020 - Present
-        company: Anderson Technologies, Ohio
+      - role: Project & Process Engineer 
+        time: April 2022 - Present
+        company: Bravo Wellness (Medical Mutual), Ohio
         details: |
-            - Responsible for running full scale penetration tests for clients with multiple domains 
-            - Oversee, deploy and maintained EDR across multiple domains and physical client sites
-            - Analyze malware executables within virtual environments
-            - Organize and ran routine security awareness training
-            - Setup municipal ELANs with multiple domains, and dozens of subnets
-      - role: Network Security Engineer
-        time: 2019 - 2020
-        company: Budget Dumpster, Ohio
+            - Identified, proposed, and lead opportunities to improve processes.
+            - Evaluated proposed projects and identified alternative solutions and designs producing improved results.
+            - Developed documentation, diagrams, and specifications to meet project requirements.
+            - Created and implemented project toolkits for general projects, enterprise projects, migration projects, and client custom requests.
+            - Collaborated with cross-functional teams to develop and implement process changes.
+            - Tracked activity, resolved problems, published progress reports, recommended actions, and ensuring timely/accurate project delivery.
+            - Supported the development and documentation of process workflow and the automation of processes when applicable across disparate systems and departments.
+            - Provided Subject Matter Expertise for highly custom client implementations.
+
+      - role: Project & Systems Analyst
+        time: June 2020 - April 2022
+        company: Bravo Wellness (Medical Mutual), Ohio
         details: |
-            - Deployed and maintained IDS systems (Snort)
-            - Deployed and maintained EDR on all PCs and servers (SentinelOne)
-            - Deployed and maintained Network Monitoring system (PRTG)
-            - Implemented layered approach to security
-            - Built PowerShell, Bash, and Batch scripts to automate security tasks
-      - role: Network Technician
-        time: 2013 - 2019
-        company: Anderson Technologies, Ohio
+            - Brainstormed with peers and other members to determine enhancements to existing systems or need to purchase new.
+            - Assessed business requirements to create focused solutions in Smartsheet, JIRA, SharePoint, Alteryx, Microsoft Suite of Products, and more.
+            - Developed diagrams to describe and lay out logical operational steps.
+            - Diagnosed, troubleshot and resolved system problems.
+            - Determined root cause of problems and issues to implement courses of action required to implement solutions.
+            - Planned, designed, scheduled, and executed phases for general departmental projects.
+            - Developed and implemented strategic project plans to meet business objectives.
+            - Created and maintained a project toolkit for our Client Implementation team.
+            
+      - role: Procurement Specialist
+        time: April 2019 - June 2020
+        company: Bravo Wellness (Medical Mutual), Ohio
         details: |
-            - Oversaw the overall information and data security on PCs, servers, and networks
-            - Maintained PCs and Servers, including maintaining patching and AV definitions
-            - Deployed and maintained antivirus solutions (Viper &amp; Bitdefender)
-            - Setup AD networks on local servers
-            - Deployed Office365 across Enterprise 
+            - Established relationships with vendors and suppliers to streamline procurement operations.
+            - Evaluated vendor performance and identified areas for improvement.
+            - Created a semi-automated purchase order process for our largest third party services.
+            - Created a semi-automated screening and flu event detail sheet to assist Finance in generating client invoices in a more timely, organized fashion.
+            - Performed complex data analysis to identify cost-saving opportunities and forecast future demands.
+            - Reviewed and reconciled vendor and client invoices.
+            - Obtained appropriate invoice credits through audit findings.
+            
+      - role: Lead Partner Services Coordinator
+        time: March 2017 - April 2019
+        company: Bravo Wellness (Medical Mutual), Ohio
+        details: |
+            - Supervised and trained employees on third party vendor service level agreements, and client contracts.
+            - Managed vendor performance to maximize profitability and achieve financial objectives.
+            - Cultivated strong relationships with vendors and partners supporting administrative operations.
+            - Created and maintained daily and weekly reports for upper management.
+            - Resolved escalated customer complaints and issues to drive satisfaction and loyalty.
+            - Hosted quarterly review meetings with all third party vendors.
+
+      - role: Senior Screening Coordinator
+        time: July 2012 - March 2017
+        company: Bravo Wellness (Medical Mutual), Ohio
+        details: |
+            - Assisted in the development of an in-house scheduler tool and administrative center for internal and external users.
+            - Coordinated on-site and off-site wellness screening and/or flu events for our jumbo book of business.
+            - Built and managed schedules for screening and flu shot events.
+            - Collaborated with vendors and client contacts to resolve issues.
+            - Upsold à la carte services to clients.
+            
+      - role: Appeals Specialist
+        time: Januart 2012 - July 2012
+        company: Bravo Wellness (Medical Mutual), Ohio
+        details: |
+            - Developed appeals functions, policies and procedures and documentation.
+            - Carried out administrative tasks by communicating with clients, participants, and physician offices as well as distributing mail, and scanning documents.
+            - Verified client information by analyzing existing evidence on file.
+            - Coordinated with Appeals Lead to compose appeal responses.
+            - Approved or Denied Appeals within the compliance regulations of workplace wellness.
+            
+      - role: Bilingual Participant Services Agent
+        time: September 2011 - January 2012
+        company: Bravo Wellness (Medical Mutual), Ohio
+        details: |
+            - Met customer call guidelines for service levels, handle time and productivity.
+            - Actively listened to customers, handled concerns quickly and escalated major issues to supervisor.
+            - Responded to customer requests, offering excellent support and tailored recommendations to address needs.
+            - Helped improve customer satisfaction by translating customer paperwork and company documentation.
+            - Identified and responded to customer requests and concerns through email and phone for both English and Spanish-speaking customers.
+            
+      - role: Interlibrary Loan Assistant
+        time: August 2009 - March 2012
+        company: OhioLink (Lorain County Community College), Ohio
+        details: |
+            - Organized and maintained detailed records on equipment use, materials logs and circulation activities.
+            - Mitigated librarian workload by independently managing basic patron requests and locating materials.
+            - Located desired customer items through interlibrary loan system and coordinated deliveries.
+            - Catalogued and sorted books and library materials.
+
 projects:
     title: Certifications
     assignments:
-      - title: Offensive Security Certified Professional (OSCP)
-        link: "oscp.pdf"
+      - title: Smartsheet Core Product Certification - January 2021
+       link: "oscp.pdf"
         #tagline: "I obtained the OSCP this past year and have been activly working at improving my skills since then. Both through full scale Penetration Tests and HackTheBox."
 
-      - title: TestOut Network Pro Certification
-        link: "NetPro.pdf"
-        #tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Effective Public Speaking Skills, Alison - July 2022
+       #link: "NetPro.pdf"
+        #tagline: "#"
 
-      - title: TestOut Security Pro Certification
-        link: "SecPro.pdf"
-        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: The Body Language of Public Speaking, Alison - August 2022
+       #link: "SecPro.pdf"
+        #tagline: "#"
 
-      #- title: Atom
-        #link: "#"
-        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Conquering Your Fear of Public Speaking, Alison - August 2022
+       #link: "#"
+        #tagline: "#"
+        
+      - title: Planning for Ultimate Public Speaking Success, Alison - August 2022
+       #link: "#"
+        #tagline: "#"
+        
+      - title: Diploma in Project Management, Alison - November 2022
+       #link: "#"
+        #tagline: "#"
 
+#oss:
+  #  title: Skills &amp; Proficiency
+   # contributions:
+   #   - title: "Penetration Testing"
+   #     link: "sectools.html"
+   #     tagline: "I have been actively Penetration Testing for the past 18 months. Just a few of the tools I have used are listed in the link above."
 
-oss:
-    title: Skills &amp; Proficiency
-    contributions:
-      - title: "Penetration Testing"
-        link: "sectools.html"
-        tagline: "I have been actively Penetration Testing for the past 18 months. Just a few of the tools I have used are listed in the link above."
+  #    - title: "Operating Systems"
+  #      link: "os.html"
+   #     tagline: "I have great experience with many Operating Systems. I have used different distributions of linux extensively."
 
-      - title: "Operating Systems"
-        link: "os.html"
-        tagline: "I have great experience with many Operating Systems. I have used different distributions of linux extensively."
+  #    - title: "Cloud Platforms"
+   #     link: "cp.html"
+  #      tagline: "I have experience in setting up and managing servers and networks in cloud in several cloud platforms."
 
-      - title: "Cloud Platforms"
-        link: "cp.html"
-        tagline: "I have experience in setting up and managing servers and networks in cloud in several cloud platforms."
+#publications:
+   # title: Professional Groups
+  #  intro: >
+ #       I have been determined to continue learning and growing my skills,
+  #      and determined to stay in the loop within the InfoSec world.
+  #  papers:
+   #   - title: InfraGard
+  #      #conference: "InfraGard is a partnershhip between the FBI and memebers of the private sector for the protection of U.S. Critical systems."
 
-publications:
-    title: Professional Groups
-    intro: >
-        I have been determined to continue learning and growing my skills,
-        and determined to stay in the loop within the InfoSec world.
-    papers:
-      - title: InfraGard
-        authors: Member since 2019
-        #conference: "InfraGard is a partnershhip between the FBI and memebers of the private sector for the protection of U.S. Critical systems."
-
-      - title: HackTheBox
-        authors: Member since 2020
+  #    - title: HackTheBox
+  #      authors: Member since 2020
         #conference: "Hack The Box is a leading cybersecurity platform designed to sharpen their offensive and defensive security expertise"
 skills:
-    title: Languages
+    title: Skills
         
     toolset:
-      - name: Linux Bash & Windows Batch
-        level: 80%
+      - name: Project Management
+        level: 100%
 
-      - name: Python
-        level: 65%
+      - name: Kaizen
+        level: 100%
 
-      - name: C++
-        level: 50%
+      - name: Customer Service
+        level: 100%
+      
+      - name: Team building
+        level: 100%
+        
+      - name: Strategic Thinking
+        level: 100%
 
+      - name: Process Improvement
+        level: 100%
 
-            
+      - name: Documentation & training
+        level: 100%
+
+      - name: Problem Solving
+        level: 100%
+
+      - name: Process Automation
+        level: 100%
+
+      - name: Formulas
+        level: 100%
+
+      - name: Basic SQL
+        level: 100%
