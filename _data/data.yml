@@ -34,6 +34,7 @@ sidebar:
       info:
         - idiom: English
           level: Native
+          
         - idiom: Spanish
           level: Native
 
@@ -161,7 +162,7 @@ experiences:
             - Mitigated librarian workload by independently managing basic patron requests and locating materials.
             - Located desired customer items through interlibrary loan system and coordinated deliveries.
             - Catalogued and sorted books and library materials.
-projects:
+
 projects:
     title: Certifications
     assignments:
@@ -170,18 +171,24 @@ projects:
         #tagline: "I obtained the OSCP this past year and have been activly working at improving my skills since then. Both through full scale Penetration Tests and HackTheBox."
 
       - title: Effective Public Speaking Skills, Alison - July 2022
-     #  link: "NetPro.pdf"
-        #tagline: "A responsive website template designed to help web developers/designers market their services."
+       #link: "NetPro.pdf"
+        #tagline: "#"
 
       - title: The Body Language of Public Speaking, Alison - August 2022
        #link: "SecPro.pdf"
-        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        #tagline: "#"
 
       - title: Conquering Your Fear of Public Speaking, Alison - August 2022
-        #link: "#"
-        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+       #link: "#"
+        #tagline: "#"
+        
       - title: Planning for Ultimate Public Speaking Success, Alison - August 2022
+       #link: "#"
+        #tagline: "#"
+        
       - title: Diploma in Project Management, Alison - November 2022
+       #link: "#"
+        #tagline: "#"
 
 #oss:
   #  title: Skills &amp; Proficiency
@@ -215,22 +222,34 @@ skills:
         
     toolset:
       - name: Project Management
-      #  level: 80%
+        level: 100%
 
       - name: Kaizen
-      #  level: 65%
+        level: 100%
 
       - name: Customer Service
-      #  level: 50%
+        level: 100%
       
       - name: Team building
+        level: 100%
+        
       - name: Strategic Thinking
+        level: 100%
+
       - name: Process Improvement
+        level: 100%
+
       - name: Documentation & training
+        level: 100%
+
       - name: Problem Solving
+        level: 100%
+
       - name: Process Automation
+        level: 100%
+
       - name: Formulas
+        level: 100%
+
       - name: Basic SQL
-
-
-            
+        level: 100%
