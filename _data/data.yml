@@ -177,17 +177,49 @@ projects:
 oss:
     title: Skills &amp; Proficiency
     contributions:
-      - title: "Penetration Testing"
+      - title: "Project Management"
         #link: "sectools.html"
         #tagline: "I have been actively Penetration Testing for the past 18 months. Just a few of the tools I have used are listed in the link above."
 
-      - title: "Operating Systems"
+      - title: "Kaizen"
         #link: "os.html"
         #tagline: "I have great experience with many Operating Systems. I have used different distributions of linux extensively."
 
-      - title: "Cloud Platforms"
+      - title: "Customer Service"
         #link: "cp.html"
         #tagline: "I have experience in setting up and managing servers and networks in cloud in several cloud platforms."
+        
+      - title: "Team Building"
+        #link: "cp.html"
+        #tagline: "I have experience in setting up and managing servers and networks in cloud in several cloud platforms."
+       
+      - title: "Strategic Thinking"  
+        #link: "cp.html"
+        #tagline: "I have experience in setting up and managing servers and networks in cloud in several cloud platforms."
+        
+      - title: "Process Improvement"  
+        #link: "cp.html"
+        #tagline: "I have experience in setting up and managing servers and networks in cloud in several cloud platforms."
+        
+      - title: "Documentation & Training"  
+        #link: "cp.html"
+        #tagline: "I have experience in setting up and managing servers and networks in cloud in several cloud platforms."
+
+      - title: "Problem Solving"  
+        #link: "cp.html"
+        #tagline: "I have experience in setting up and managing servers and networks in cloud in several cloud platforms."
+
+      - title: "Process Automation"  
+        #link: "cp.html"
+        #tagline: "I have experience in setting up and managing servers and networks in cloud in several cloud platforms."
+
+      - title: "Formulas"  
+        #link: "cp.html"
+        #tagline: "I have experience in setting up and managing servers and networks in cloud in several cloud platforms."        
+        
+      - title: "Basic SQL"  
+        #link: "cp.html"
+        #tagline: "I have experience in setting up and managing servers and networks in cloud in several cloud platforms."   
 
 publications:
 #    title: Professional Groups
@@ -203,40 +235,37 @@ publications:
 #
         #conference: "Hack The Box is a leading cybersecurity platform designed to sharpen their offensive and defensive security expertise"
 skills:
-    title: Skills
+    title: Software Skills
         
     toolset:
-      - name: Project Management
+      - name: Smartsheet
         level: 100%
 
-      - name: Kaizen
+      - name: Salesforce
         level: 100%
 
-      - name: Customer Service
+      - name: Salesforce Marketing Cloud
+        level: 80%
+
+      - name: JIRA
+        level: 90%
+
+      - name: Alteryx
+        level: 50%
+
+      - name: Tableau
+        level: 40%
+
+      - name: PowerBI
+        level: 50%
+
+      - name: Microsoft Office Suite
         level: 100%
 
-      - name: Team building
+      - name: MacOS
         level: 100%
 
-      - name: Strategic Thinking
-        level: 100%
-
-      - name: Process Improvement
-        level: 100%
-
-      - name: Documentation & training
-        level: 100%
-
-      - name: Problem Solving
-        level: 100%
-
-      - name: Process Automation
-        level: 100%
-
-      - name: Formulas
-        level: 100%
-
-      - name: Basic SQL
+      - name: Windows OS
         level: 100%
 
 
