@@ -27,7 +27,7 @@ sidebar:
     #stack-overflow: # Number/Username
     #codewars:
     #goodreads: # Number-Username
-    #pdf: resume.pdf
+    pdf: resume.pdf
 
     languages:
       title: Languages
