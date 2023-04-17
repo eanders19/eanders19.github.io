@@ -152,7 +152,7 @@ projects:
     title: Certifications
     assignments:
       - title: Smartsheet Core Product Certification
-        link: "oscp.pdf"
+        link: "SScert.pdf"
         tagline: "Obtained in Janurary 2021"
 
       - title: Effective Public Speaking Skills, Alison
@@ -249,6 +249,9 @@ skills:
 
       - name: JIRA
         level: 90%
+        
+      - name: TruCentive
+        level: 100%
 
       - name: Alteryx
         level: 50%
