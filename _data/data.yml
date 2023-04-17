@@ -166,7 +166,7 @@ projects:
     title: Certifications
     assignments:
       - title: Smartsheet Core Product Certification - January 2021
-       #link: "oscp.pdf"
+       link: "oscp.pdf"
         #tagline: "I obtained the OSCP this past year and have been activly working at improving my skills since then. Both through full scale Penetration Tests and HackTheBox."
 
       - title: Effective Public Speaking Skills, Alison - July 2022
@@ -201,8 +201,8 @@ projects:
 #publications:
    # title: Professional Groups
   #  intro: >
-        I have been determined to continue learning and growing my skills,
-        and determined to stay in the loop within the InfoSec world.
+ #       I have been determined to continue learning and growing my skills,
+  #      and determined to stay in the loop within the InfoSec world.
   #  papers:
    #   - title: InfraGard
   #      #conference: "InfraGard is a partnershhip between the FBI and memebers of the private sector for the protection of U.S. Critical systems."
@@ -211,9 +211,9 @@ projects:
   #      authors: Member since 2020
         #conference: "Hack The Box is a leading cybersecurity platform designed to sharpen their offensive and defensive security expertise"
 skills:
- #   title: Languages
+    title: Skills
         
-  #  toolset:
+    toolset:
       - name: Project Management
       #  level: 80%
 
