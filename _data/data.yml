@@ -38,21 +38,21 @@ sidebar:
         - idiom: Spanish
           level: Native
 
-    interests:
-      title: Interests
-      info:
+    #interests:
+      #title: Interests
+      #info:
      
-        - item: Singing
-          link:
+        #- item: Singing
+          #link:
           
-        - item: Traveling
-          link:
+        #- item: Traveling
+          #link:
 
-        - item: Cooking
-          link:
+        #- item: Cooking
+          #link:
 
-        - item: Do-It-Yourself Projects 
-          link:
+        #- item: Do-It-Yourself Projects 
+          #link:
 
 career-profile:
     title: Career Profile
@@ -63,10 +63,10 @@ career-profile:
       Skilled at overseeing complex, high-value projects with excellent planning competencies.
       Comfortable working in fast-paced and deadline-driven environment.
 education:
-    title: Education
-    info:
-      - degree: Adiministrative Office Information Systems (Incomplete)
-        university: Lorain County Community College
+    #title: Education
+    #info:
+      #- degree: Administrative Office Information Systems (Incomplete)
+       # university: Lorain County Community College
         #time: 2017 - 2019
        #details: 
 experiences:
@@ -144,14 +144,14 @@ experiences:
             - Responded to customer requests, offering excellent support and tailored recommendations to address needs.
             - Helped improve customer satisfaction by translating customer paperwork and company documentation.
             - Identified and responded to customer requests and concerns through email and phone for both English and Spanish-speaking customers.           
-      - role: Interlibrary Loan Assistant
-        time: 2009 - 2012
-        company: OhioLink (Lorain County Community College), Ohio
-        details: |
-            - Organized and maintained detailed records on equipment use, materials logs and circulation activities.
-            - Mitigated librarian workload by independently managing basic patron requests and locating materials.
-            - Located desired customer items through interlibrary loan system and coordinated deliveries.
-            - Catalogued and sorted books and library materials.
+      #- role: Interlibrary Loan Assistant
+        #time: 2009 - 2012
+        #company: OhioLink (Lorain County Community College), Ohio
+        #details: |
+            #- Organized and maintained detailed records on equipment use, materials logs and circulation activities.
+            #- Mitigated librarian workload by independently managing basic patron requests and locating materials.
+            #- Located desired customer items through interlibrary loan system and coordinated deliveries.
+            #- Catalogued and sorted books and library materials.
 projects:
     title: Certifications
     assignments:
